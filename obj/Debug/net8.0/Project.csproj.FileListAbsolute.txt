@@ -1,0 +1,11 @@
+C:\Users\zaina\OneDrive\Desktop\Summer projects\Project\bin\Debug\net8.0\Project.deps.json
+C:\Users\zaina\OneDrive\Desktop\Summer projects\Project\bin\Debug\net8.0\Project.dll
+C:\Users\zaina\OneDrive\Desktop\Summer projects\Project\bin\Debug\net8.0\Project.pdb
+C:\Users\zaina\OneDrive\Desktop\Summer projects\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaina\OneDrive\Desktop\Summer projects\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+C:\Users\zaina\OneDrive\Desktop\Summer projects\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+C:\Users\zaina\OneDrive\Desktop\Summer projects\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\zaina\OneDrive\Desktop\Summer projects\Project\obj\Debug\net8.0\Project.dll
+C:\Users\zaina\OneDrive\Desktop\Summer projects\Project\obj\Debug\net8.0\refint\Project.dll
+C:\Users\zaina\OneDrive\Desktop\Summer projects\Project\obj\Debug\net8.0\Project.pdb
+C:\Users\zaina\OneDrive\Desktop\Summer projects\Project\obj\Debug\net8.0\ref\Project.dll
